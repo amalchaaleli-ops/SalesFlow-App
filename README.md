@@ -25,7 +25,7 @@
 ## 🌐 Démo en ligne
 
 L'application est déployée et accessible publiquement ici : 
-👉 **[Voir SalesFlow Analytics en direct](https://TON-LIEN-STREAMLIT-ICI.streamlit.app)**
+👉 **[Voir SalesFlow Analytics en direct](https://salesflow-app-nqms9juetgm5u2x4wgqr95.streamlit.app/)**
 
 ---
 *Développé avec ❤️ par Amal Chaaleli dans le cadre du Projet de Fin d'Année (Matière : Logiciels).*
