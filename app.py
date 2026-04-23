@@ -65,6 +65,18 @@ if fichier_upload is not None:
         # Affiche le graphique en prenant toute la largeur
         st.plotly_chart(fig, use_container_width=True)
         
+        # --- SECTION EXPORT ---
+        st.markdown("---")
+        st.subheader("📥 Exporter les Résultats")
+        # On convertit le dataframe en CSV pour le téléchargement
+        csv_export = df.to_csv(index=False).encode('utf-8')
+        st.download_button(
+            label="Télécharger le rapport d'analyse final",
+            data=csv_export,
+            file_name='rapport_ventes_final.csv',
+            mime='text/csv',
+        )
+        
     else:
         st.warning("⚠️ Ce fichier ne contient pas les colonnes du PFA (ID, Prix, Quantite, Remise). Affichage en mode exploratoire simple.")
 
