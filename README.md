@@ -29,4 +29,4 @@ L'application est déployée et accessible publiquement ici :
 
 ---
 ---
-*Développé avec par **Amal Chaaleli** et **Saadallah Med Amine** dans le cadre du Projet de Fin d'Année (Matière : Logiciels) - 2ème année de Licence.*
+*Développé avec par **Amal Chaaleli** et **Saadallah Med Amine** dans le cadre du Projet de Fin d'Année (Matière : Logiciels) - 2ème année de Licence en Mathématiques Appliquées à la science des Données.*
