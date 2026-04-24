@@ -28,4 +28,5 @@ L'application est déployée et accessible publiquement ici :
 👉 **[Voir SalesFlow Analytics en direct](https://salesflow-app-nqms9juetgm5u2x4wgqr95.streamlit.app/)**
 
 ---
-*Développé avec ❤️ par Amal Chaaleli dans le cadre du Projet de Fin d'Année (Matière : Logiciels).*
+---
+*Développé avec par **Amal Chaaleli** et **Saadallah Med Amine** dans le cadre du Projet de Fin d'Année (Matière : Logiciels) - 2ème année de Licence.*
